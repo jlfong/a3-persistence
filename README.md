@@ -34,6 +34,11 @@ The middleware packages I used were: express, express.static, passport, body-par
 - Cookie-parser parses cookie headers and populates cookies.
 - Helmet helps secure the application by setting various HTTP headers.
 
+Default credentials:
+- username: janette, password: janette1
+- username: winny, password: winny1
+- Create your own user through the Register button
+
 ## Technical Achievements
 - **Logout Functionality**: The user has an option to log out to return to the home page.
 - **Error Checking**: The login form has error checking to ensure that users fill out the login form completely before logging in.  The registration form has
